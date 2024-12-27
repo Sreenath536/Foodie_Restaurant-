@@ -1,0 +1,22 @@
+@media (min-width:577px) and (max-width:992px){
+    .container{
+        width: 100%;
+    }
+    .main_content .row .col_1 .hot_recepi .hot_recepi_title{
+        font-size: 2.5rem;
+    }
+    .hot_recepi .hot_recepi_desp{
+        height: 45px;
+        overflow: hidden;
+        margin: 0.8rem 0rem;
+    }
+    .recipe_container .recipe_card{
+        flex-grow: 1;
+    }
+    .mb_row{
+        display: none;
+    }
+    .delicious_container .recipe_card{
+        flex-grow: 1;
+    }
+}
